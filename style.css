@@ -1,0 +1,32 @@
+.container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+      }
+      
+      .head{
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+        padding: 10px;
+        margin-top: 10px;
+      }
+      #inp{
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 18px;
+      }
+      #btn{
+         margin-top: 15px;
+         padding: 5px;
+      }
+      #result{
+         margin-top: 0px;
+         padding: 5px;
+         color: red;
+         font-size: 35px;
+      }
+      .head2{
+        margin-top: 10px;
+      }
